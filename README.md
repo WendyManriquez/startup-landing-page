@@ -18,7 +18,7 @@ Equipo
 - Frontend 2 (Contenido): Lizuli Salas
 - Gestor del Repositorio: Wendy Manriquez
 
-## 📁 Estructura del repositorio
+ Estructura del repositorio
 
 - `index.html`: Página principal
 - `style.css`: Estilos
